@@ -11,10 +11,6 @@ Full stack pizza delivery site build with Next.js, MongoDB, Node.js and paypal i
 - Paypal provides payment solution
 - Cloudinary for image upload
 
-## Live preview
-
-https://full-stack-pizza-delivery.herokuapp.com/
-
 ## Install Dependencies
 
 `npm install` `yarn dev`
